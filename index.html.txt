@@ -1,0 +1,49 @@
+
+ <!DOCTYPE html>
+ <html lang="si">
+ <head>
+  <meta charset="UTF-8">
+  <title>Jayasinghe Wooden Items</title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <header>
+    <h1>  
+    <p>       
+    <nav>
+      <a href="#about"> 
+      <a href="#products">
+      <a href="#contact"> 
+    </nav>
+  </header>
+  <section id="about">
+    <h2> 
+</h2>
+    <p>"Jayasinghe Wooden Items"      
+  </section>
+  <section id="products">
+    <h2> 
+</h2>
+    <div class="product-grid">
+ folder  
+ images folder  
+</h1>
+ </a>
+ </a>
+ </a>
+      <div class="product-card"><img src="images/chair.jpg"><h3> 
+      <div class="product-card"><img src="images/table.jpg"><h3> 
+      <div class="product-card"><img src="images/cupboard.jpg"><h3>
+    </div>
+  </section>
+  <section id="contact">
+    <h2>  
+    <p>
+ 072--989180 | 
+  </section>
+ </h2>
+ info@jayasinghewood.com</p>
+  <footer>© 2025 Jayasinghe Wooden Items</footer>
+ </body>
+ </html>
+ 

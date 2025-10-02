@@ -1,0 +1,18 @@
+
+ body {
+ .  
+ 3
+ product pictures
+ </p>
+ ,    
+</h3></div>
+ </h3></div>
+ Cupboard</h3></div>
+  background: #121212;
+  color: #e0e0e0;
+  font-family: 'Noto Sans Sinhala', sans-serif;
+ }
+ header { background: #1f1f1f; color: #ffd700; text-align: center; padding: 20px; }
+ nav a { color: #ffd700; margin: 0 10px; text-decoration: none; }
+ .product-card { background: #1e1e1e; border-radius: 10px; padding: 10px; }
+ 
